@@ -75,7 +75,7 @@ I love old computers from the 1980s and own probably entirely too many. They're 
 
 | System | Image (From Wikimedia) |
 |---|---|
-| An Atari 800 (1979) | <img src ="/workspace/rdmullins.github.io/img/atari800.jpeg" width="100px" alt="Atari 800"> |
+| An Atari 800 (1979) | <img src ="img/atari800.jpeg" width="100px" alt="Atari 800"> |
 | A Texas Instruments TI-99/4a | <img src ="/workspace/rdmullins.github.io/img/ti994a.jpeg" width="100px" alt="Texas Instruments TI-99/4a"> |
 | IBM PC (The original, no hard drive) | <img src ="/workspace/rdmullins.github.io/img/ibmpc.jpg" width="100px" alt="IBM PC"> |
 | IBM PC-AT (A few years later - 286 with a 20MB HD) | <img src ="/workspace/rdmullins.github.io/img/ibmpcat.jpg" width="100px" alt="IBM PC-AT"> |
