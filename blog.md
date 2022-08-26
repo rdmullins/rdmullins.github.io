@@ -73,25 +73,32 @@ Along those same lines, I'm looking forward to learning more about what it's lik
 
 I love old computers from the 1980s and own probably entirely too many. They're not all currently hooked up but all are in working order. Among them:
 
-- An Atari 800 (1979)
-- A Texas Instruments TI-99/4a 
-- IBM PC (The original, no-hard-drive model)
-- IBM PC-AT (A few years later - a 286 with a 20MB HD!)
-- Apple II
-- TRS-80 Color Computer
-- TRS-80 Model 100 (a laptop from 1983)
+| System | Image (From Wikimedia) |
+|---|---|
+| An Atari 800 (1979) | <img src ="/workspace/rdmullins.github.io/img/atari800.jpeg" width="100px" alt="Atari 800"> |
+| A Texas Instruments TI-99/4a | <img src ="/workspace/rdmullins.github.io/img/ti994a.jpeg" width="100px" alt="Texas Instruments TI-99/4a"> |
+| IBM PC (The original, no hard drive) | <img src ="/workspace/rdmullins.github.io/img/ibmpc.jpg" width="100px" alt="IBM PC"> |
+| IBM PC-AT (A few years later - 286 with a 20MB HD) | <img src ="/workspace/rdmullins.github.io/img/ibmpcat.jpg" width="100px" alt="IBM PC-AT"> |
+| An Apple II | <img src ="/workspace/rdmullins.github.io/img/appleii.png" width="100px" alt="Apple II"> |
+| A TRS-80 Color Computer | <img src ="/workspace/rdmullins.github.io/img/ibmcoco.jpg" width="100px" alt="TRS-80 CoCo"> |
+| A TRS-80 Model 100 - A laptop from 1983 | <img src ="/workspace/rdmullins.github.io/img/trs80model100.jpg" width="100px" alt="TRS-80 Model 100"> |
 
-And last but not least, and awesome enough to deserve its own single-item unordered list:
+And last but not least, and awesome enough to deserve its own single-item markdown table:
 
-- Commodore 64
+| System | Image (From Wikimedia) |
+|---|---|
+| Commodore 64 | <img src ="/workspace/rdmullins.github.io/img/c64.jpg" width="100px" alt="Commodore 64"> |
 
 That one is actually hooked up for gaming. 
 
 There are a few holes in my collection, so if you have one of these laying around gathering dust I'll give it a loving forever home:
 
-- Compaq 'luggable' - the first IBM clone
-- Commodore PET
-- Commodore 128-D
+| System | Image (From Wikimedia) |
+|---|---|
+| Compaq 'luggable' - the first IBM clone | <img src ="/workspace/rdmullins.github.io/img/compaq.jpg" width="100px" alt="Compaq"> |
+| Commodore PET | <img src ="/workspace/rdmullins.github.io/img/commodorepet.jpg" width="100px" alt="Commodore 64"> |
+| Commodore 128-D | <img src ="/workspace/rdmullins.github.io/img/c128d.jpg" width="100px" alt="Commodore 128-D"> |
+| TRS-80 Model 3 | <img src ="/workspace/rdmullins.github.io/img/trs80modeliii.jpg" width="100px" alt="TRS-80 Model 3"> |
 
 [Return to Table of Contents](#posts)
 
