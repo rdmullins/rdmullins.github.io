@@ -143,4 +143,4 @@ Finally, this pushes the local (GitPod) changes back to the repository.
 
 ---
 
-##### Questions or comments? [Contact the Author]("mailto:rogermullins.mba@gmail.com")
+##### Questions or comments? [Contact the Author](mailto:rogermullins.mba@gmail.com)
