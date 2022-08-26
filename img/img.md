@@ -1,0 +1,1 @@
+# Placeholder File to Get Image Folder to Push to Git
