@@ -6,6 +6,7 @@
 - [Question: Was your first week what you expected?](#question-was-your-first-week-what-you-expected)
 - [Question: What are you excited or eager to learn more about?](#question-what-are-you-excited-or-eager-to-learn-more-about)
 - [Question: What is something about you that can only be learned from this blog?](#question-what-is-something-about-you-that-can-only-be-learned-from-this-blog)
+- [Cool Git Commands I Learned During Sprint 1](#cool-git-commands)
 
 ---
 
@@ -76,18 +77,18 @@ I love old computers from the 1980s and own probably entirely too many. They're 
 | System | Image (From Wikimedia) |
 |---|---|
 | An Atari 800 (1979) | <img src ="img/atari800.jpeg" width="100px" alt="Atari 800"> |
-| A Texas Instruments TI-99/4a | <img src ="/workspace/rdmullins.github.io/img/ti994a.jpeg" width="100px" alt="Texas Instruments TI-99/4a"> |
-| IBM PC (The original, no hard drive) | <img src ="/workspace/rdmullins.github.io/img/ibmpc.jpg" width="100px" alt="IBM PC"> |
-| IBM PC-AT (A few years later - 286 with a 20MB HD) | <img src ="/workspace/rdmullins.github.io/img/ibmpcat.jpg" width="100px" alt="IBM PC-AT"> |
-| An Apple II | <img src ="/workspace/rdmullins.github.io/img/appleii.png" width="100px" alt="Apple II"> |
-| A TRS-80 Color Computer | <img src ="/workspace/rdmullins.github.io/img/ibmcoco.jpg" width="100px" alt="TRS-80 CoCo"> |
-| A TRS-80 Model 100 - A laptop from 1983 | <img src ="/workspace/rdmullins.github.io/img/trs80model100.jpg" width="100px" alt="TRS-80 Model 100"> |
+| A Texas Instruments TI-99/4a | <img src ="img/ti994a.jpeg" width="100px" alt="Texas Instruments TI-99/4a"> |
+| IBM PC (The original, no hard drive) | <img src ="img/ibmpc.jpg" width="100px" alt="IBM PC"> |
+| IBM PC-AT (A few years later - 286 with a 20MB HD) | <img src ="img/ibmpcat.jpg" width="100px" alt="IBM PC-AT"> |
+| An Apple II | <img src ="img/appleii.png" width="100px" alt="Apple II"> |
+| A TRS-80 Color Computer | <img src ="img/ibmcoco.jpg" width="100px" alt="TRS-80 CoCo"> |
+| A TRS-80 Model 100 - A laptop from 1983 | <img src ="img/trs80model100.jpg" width="100px" alt="TRS-80 Model 100"> |
 
 And last but not least, and awesome enough to deserve its own single-item markdown table:
 
 | System | Image (From Wikimedia) |
 |---|---|
-| Commodore 64 | <img src ="/workspace/rdmullins.github.io/img/c64.jpg" width="100px" alt="Commodore 64"> |
+| Commodore 64 | <img src ="img/c64.jpg" width="100px" alt="Commodore 64"> |
 
 That one is actually hooked up for gaming. 
 
@@ -95,10 +96,48 @@ There are a few holes in my collection, so if you have one of these laying aroun
 
 | System | Image (From Wikimedia) |
 |---|---|
-| Compaq 'luggable' - the first IBM clone | <img src ="/workspace/rdmullins.github.io/img/compaq.jpg" width="100px" alt="Compaq"> |
-| Commodore PET | <img src ="/workspace/rdmullins.github.io/img/commodorepet.jpg" width="100px" alt="Commodore 64"> |
-| Commodore 128-D | <img src ="/workspace/rdmullins.github.io/img/c128d.jpg" width="100px" alt="Commodore 128-D"> |
-| TRS-80 Model 3 | <img src ="/workspace/rdmullins.github.io/img/trs80modeliii.jpg" width="100px" alt="TRS-80 Model 3"> |
+| Compaq 'luggable' - the first IBM clone | <img src ="img/compaq.jpg" width="100px" alt="Compaq"> |
+| Commodore PET | <img src ="img/commodorepet.jpg" width="100px" alt="Commodore 64"> |
+| Commodore 128-D | <img src ="img/c128d.jpg" width="100px" alt="Commodore 128-D"> |
+| TRS-80 Model 3 | <img src ="img/trs80modeliii.jpg" width="100px" alt="TRS-80 Model 3"> |
+
+[Return to Table of Contents](#posts)
+
+---
+
+## Cool Git Commands
+
+I had used Git off and on in the past but never seriously. I thought it might be handy to list the commands I used this week in setting up this blog.
+
+```
+$ git checkout -b dev
+```
+
+That command creates a new branch in the repo called 'dev' where I can work on changes to the blog.
+
+```
+$ git status
+```
+
+This (unsurprisingly) lists the files that are being modified and (importantly) whether or not Git is aware of them. I check this periodically just to make sure everything has been tracked.
+
+```
+$ git add -A
+```
+
+This command adds all the files so they're included in the commit.
+
+```
+$ git commit -m "This is a test"
+```
+
+Once everything is added, this is how it's committed. 
+
+```
+$ git push origin dev
+```
+
+Finally, this pushes the local (GitPod) changes back to the repository.
 
 [Return to Table of Contents](#posts)
 
