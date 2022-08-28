@@ -7,6 +7,7 @@
 - [Question: What are you excited or eager to learn more about?](#question-what-are-you-excited-or-eager-to-learn-more-about)
 - [Question: What is something about you that can only be learned from this blog?](#question-what-is-something-about-you-that-can-only-be-learned-from-this-blog)
 - [Cool Git Commands I Learned During Sprint 1](#cool-git-commands)
+- [Post-Demo Thoughts](#post-demo-thoughts)
 
 ---
 
@@ -138,6 +139,16 @@ $ git push origin dev
 ```
 
 Finally, this pushes the local (GitPod) changes back to the repository.
+
+[Return to Table of Contents](#posts)
+
+---
+
+## Post-Demo Thoughts
+
+It was great seeing how everyone on team Da Vinci tackled the blog project.
+
+Overall it was a good reminder that there is never one particular way to approach a project. I learned quite a bit and took some inspiration from the other blogs and I hope this blog did the same for some of the others. 
 
 [Return to Table of Contents](#posts)
 
