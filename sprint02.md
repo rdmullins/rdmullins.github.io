@@ -2,6 +2,8 @@
 ## Structuring a Page of Content
 ### by Roger Mullins / Team DaVinci
 
+[Click Here to Return to the Main Page](blog.md)
+
 - [What is something you wish you could do but currently do not have the coding skills to accomplish?](#what-is-something-you-wish-you-could-do-but-currently-do-not-have-the-coding-skills-to-accomplish)
 - [What are you struggling with?](#what-are-you-struggling-with)
 - [How do you solve a problem?](#how-do-you-solve-a-problem)
@@ -52,3 +54,5 @@ I'm also a fan of the rubber ducky process, although I don't have an actual rubb
 
 [Return to Top](#by-roger-mullins--team-davinci)
 ---
+
+##### Questions or comments? [Contact the Author](mailto:rogermullins.mba@gmail.com)
