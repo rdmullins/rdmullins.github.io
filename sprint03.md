@@ -16,7 +16,14 @@ There was an odd sort of magic to creating a simple text file in Notepad, adding
 
 Fast-forward about 25 years.
 
-Modern HTML 
+Modern HTML offers native capabilities we never dreamed of in our STLP meetings. And CSS and JavaScript take those capabilities to amazing new heights.
+
+### HTML
+
+
+### CSS
+
+
 
 [Return to Top](#by-roger-mullins--team-davinci)
 ---
