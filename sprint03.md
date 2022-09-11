@@ -40,6 +40,18 @@ Etc.
 
 ## What are your thoughts on pseudocoding?
 
+Pseudocoding accomplishes two important tasks.
+
+### Thinking Programatically
+
+First, the process of writing pseudocode for a given task forces one to slow down and approach the job pragmatically. Inputs have to be identified, as do underlying conditions that will play a role in the finished solution. The algorithm to be defined must be distilled down to its component parts. Functions and procedures, if possible, are separated out as individual pieces of the solution.
+
+All the while, the writer has to try to **think** like a computer. Despite years of refinement of the individual components that make up a computer, the simple fact remains that even the fastest supercomputer still requires instructions to be fed in one at a time. Thus pseudocode fulfills a valuable role by forcing programmers to concentrate on taking a procedural approach to problem solving.
+
+### Portability
+
+With the pseudocode written programatically, yet not constrained to any one particular programming language, the next step in the process can begin. Well-defined and -structured pseudocode should be relatively easily translated into any given language.
+
 
 [Return to Top](#by-roger-mullins--team-davinci)
 ---
