@@ -33,7 +33,26 @@ For true interactivity, web developers can reach for [JavaScript](https://www.w3
 
 ## What are some objects that your blog incorporates?
 
-I've kept my blog relatively simple thus far, writing everything in markdown. However even markdown supports some rudimentary  
+I've kept my blog relatively simple thus far, writing everything in markdown. However even markdown supports some rudimentary objects.
+
+- Interal Links
+    - Internal hypertext links are easy to add in markdown and make it easier to navigate around different sections of a page of content.
+- Tables
+    - Tables are likewise easy to use and are a helpful way to organize and present information.
+- Lists
+    - Another alternative for displaying and organizing content.
+- Images
+    - Markdown facilitates the inclusion of images within pages to help better convey ideas or more visual elements.
+
+For a more web-centric blog, HTML/CSS/JS offer many more advanced objects:
+
+- Video
+- Audio
+- Multi-column layouts
+- Advanced typography
+- Dynamic interactive content
+- Form elements for collection of information / subscriptions
+- **And much more!**
 
 [Return to Top](#by-roger-mullins--team-davinci)
 ---
