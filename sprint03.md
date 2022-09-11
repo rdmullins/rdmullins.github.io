@@ -33,7 +33,7 @@ For true interactivity, web developers can reach for [JavaScript](https://www.w3
 
 ## What are some objects that your blog incorporates?
 
-Etc. 
+I've kept my blog relatively simple thus far, writing everything in markdown. However even markdown supports some rudimentary  
 
 [Return to Top](#by-roger-mullins--team-davinci)
 ---
