@@ -14,6 +14,8 @@ Without hesitation I would say the Slack setup has been the most helpful element
 
 Along those same lines I appreciated the smaller team element as well. It was certainly helpful forging closer relationships with others starting this same journey.
 
+Finally, from a technical/'tools' standpoint, Gitpod has been an excellent platform. There was a learning curve to be certain, but the effort paid dividends in that we didn't have to worry about local machine issues in addition to all the other variables that come into play during remote work.
+
 [Return to Top](#by-roger-mullins--team-davinci)
 ---
 
@@ -37,9 +39,6 @@ There have been several times throughout the past for weeks when I would find my
 Likewise, there were a few instances where the 30 minute mark came and went and I realized I was no closer to a solution than when I began. (With several Gitpod issues, I was undoubtedly farther off course). In those times I felt free to reach out on the `help` channel and without fail someone, student or instructor, was able to help me out of the weeds.
 
 [Return to Top](#by-roger-mullins--team-davinci)
----
-
-
 ---
 
 ##### Questions or comments? [Contact the Author](mailto:rogermullins.mba@gmail.com)
