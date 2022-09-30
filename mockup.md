@@ -8,3 +8,5 @@
 ### First Attempt at Using Figma
 ![Figma Mockup of Blog Design - Desktop](/img/figma-mockup.png)
 
+### Contact Card Low-Fi Wireframe
+![Low Fi Wireframe of Contact Card](/img/contact-card-wireframe.jpg)
