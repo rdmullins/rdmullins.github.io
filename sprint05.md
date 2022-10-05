@@ -4,7 +4,7 @@
 
 [Click Here to Return to the Main Page](blog.md)
 
-- [What did you learn about that helped you understand the development process?](#what-does-it-mean-to-be-a-good-developer)
+- [What did you learn about that helped you understand the development process?](#what-did-you-learn-about-that-helped-you-understand-the-development-process)
 - [What does it mean to develop good code?](#what-does-it-mean-to-develop-good-code)
 - [What does it mean to be a good developer?](#what-does-it-mean-to-be-a-good-developer)
 - [What is one thing that programmers hate doing?](#what-is-one-thing-that-programmers-hate-doing)
