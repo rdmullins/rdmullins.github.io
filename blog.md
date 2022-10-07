@@ -11,3 +11,5 @@
 ## [In-Person Sprint 1: HTML/Bootstrap/JS/State](sprint-ip-01.html)
 
 ## [Contact Card - Sandbox](contact-sandbox.html)
+
+## [In-Person Sprint 2: Vanilla JS](sprint05.md)
