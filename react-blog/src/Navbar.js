@@ -15,7 +15,7 @@ function Navbar() {
                             <a className="nav-link" href="#">Blog</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link">Portfolio</a>
+                            <a className="nav-link" href="#">Portfolio</a>
                         </li>
                     </ul>
                 <form className="d-flex" role="search">
