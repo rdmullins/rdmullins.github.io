@@ -1,9 +1,16 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.css';
+import './blog-style.css';
+import Navbar from './Navbar';
+import Main from './Main';
 
 function App() {
   return (
-    <div><h1>Roger's Blog</h1></div>>
+    <div className="container">
+      <Navbar />
+      <Main />
+    </div>
   );
 }
 
