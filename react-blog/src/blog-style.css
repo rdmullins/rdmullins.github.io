@@ -9,6 +9,18 @@
     --brand-highlight: white;
 }
 
+a {
+    color: var(--brand-highlight);  
+}
+/* 
+a:visited {
+    color: var(--brand-darker);
+  }
+
+a:hover {
+    color: black;
+} */
+
 .contact {
     max-height: 10vh;
 }
