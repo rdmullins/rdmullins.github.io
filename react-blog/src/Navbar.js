@@ -1,6 +1,6 @@
 function Navbar() {
     return (
-        <nav className="navbar navbar-expand-lg bg-warning">
+        <nav className="navbar navbar-expand-lg brand-dark-bg">
             <div className="container-fluid">
             <div className="navbar-brand typewriter">-= RM =-</div>
             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
