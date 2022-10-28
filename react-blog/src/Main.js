@@ -6,8 +6,8 @@ function Main() {
         <div className="card text-bg-dark">
             <img src={TWBackground} className="card-img" alt="Horizontal Image - Typewriter on a Desk"/>
             <div className="card-img-overlay">
-                <h5 className="card-title display-6">Roger's Programming Shoppe</h5>
-                <p className="card-text">Pragmatic Programmatic Solutions</p>
+                <h5 className="card-title display-6">Roger Mullins</h5>
+                <p className="card-text typewriter">Full-Stack Web Developer</p>
                 <BlogTeaser />
             </div>
         </div>

@@ -1,10 +1,47 @@
 @import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
 
 /* Branding Palette */
-/*:root {
+:root {
+    --brand-darker: #906437;
+    --brand-background: #3B210A;
+    /* --brand-highlight: #00BFBE; */
+    /* --brand-highlight: #906437; */
+    --brand-highlight: white;
+}
 
-}*/
+a {
+    color: var(--brand-highlight);  
+}
+/* 
+a:visited {
+    color: var(--brand-darker);
+  }
+
+a:hover {
+    color: black;
+} */
+
+.contact {
+    max-height: 10vh;
+}
 
 .typewriter {
     font-family: 'Special Elite', monospace;
+    color: var(--brand-highlight);
+}
+
+.teaser-card {
+    max-width: 30vw;
+}
+
+.brand-bg {
+    background-color: var(--brand-background);
+}
+
+.brand-dark-bg {
+    background-color: var(--brand-darker);
+}
+
+body {
+    background-color: var(--brand-background);
 }
